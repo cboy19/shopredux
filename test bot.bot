@@ -1,0 +1,18 @@
+{
+    "name": "testbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "80104e20-66fe-11ea-9820-ed0c7035afa4",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/ips/Documents/msbot/shopredux/test bot.bot"
+}

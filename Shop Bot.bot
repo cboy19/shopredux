@@ -1,0 +1,18 @@
+{
+    "name": "Shop Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://[::]:3978/api/messages",
+            "id": "2aab2ff0-6310-11ea-8896-cdd6ec0b0859",
+            "name": "http://[::]:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "/Users/ips/Documents/msbot/shop/Shop Bot.bot"
+}
